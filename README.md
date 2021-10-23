@@ -1,3 +1,3 @@
 # RBC
 
-Macrocyte CLassificaion using CNN algorithm.
+Macrocyte Classificaion using CNN algorithm.
